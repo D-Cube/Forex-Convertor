@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">FOREX EXCHANGE</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+    <string name="title_slide1">Easy Interface</string>
+    <string name="desc_slide1">Easiest and most lightwent currency exchange app.</string>
+    <string name="title_slide2">Real Time</string>
+    <string name="desc_slide2">Get real time currency conversion rates.</string>
+    <string name="title_slide3">Compare Rates</string>
+    <string name="desc_slide3">Compare exchange rates between different currencies.</string>
+
+    <string-array name="array">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>HRK</item>
+        <item>HUF</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>KRW</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RON</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>TRY</item>
+        <item>ZAR</item>
+        <item>EUR</item>
+    </string-array>
+
+    <string-array name="currencies">
+        <item>United States Dollar    USD</item>
+        <item>Australian Dollar       AUD</item>
+        <item>Bulgarian Lev           BGN</item>
+        <item>Brazilian Real          BRL</item>
+        <item>Canadian Dollar         CAD</item>
+        <item>Swiss Franc             CHF</item>
+        <item>Chinese Yuan            CNY</item>
+        <item>Czech Koruna            CZK</item>
+        <item>Danish Krone            DKK</item>
+        <item>Euro                    EUR</item>
+        <item>British Pound           GBP</item>
+        <item>Hong Kong Dollar        HKD</item>
+        <item>Croatian Kuna           HRK</item>
+        <item>Hungarian Forint        HUF</item>
+        <item>Indonesian Rupiah       IDR</item>
+        <item>Israeli New Shekel      ILS</item>
+        <item>Indian Rupee            INR</item>
+        <item>Japanese Yen            JPY</item>
+        <item>South Korean Won        KRW</item>
+        <item>Mexican Peso            MXN</item>
+        <item>Malaysian Ringgit       MYR</item>
+        <item>Norwegian Krone         NOK</item>
+        <item>New Zealand Dollar      NZD</item>
+        <item>Philippine Peso         PHP</item>
+        <item>Polish Zloty            PLN</item>
+        <item>Romanian Leu            RON</item>
+        <item>Russian Ruble           RUB</item>
+        <item>Swedish Krona           SEK</item>
+        <item>Singapore Dollar        SGD</item>
+        <item>Thai Baht               THB</item>
+        <item>Turkish Lira            TRY</item>
+        <item>South African Rand      ZAR</item>
+    </string-array>
+</resources>
